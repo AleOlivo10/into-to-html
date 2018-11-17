@@ -28,3 +28,5 @@ the <head><head> tag gives the browser information on the document that wont be 
 other tags like <body></body> will be seen
 
 <h1> to <h6> is the title-subsection range
+
+<button id="gorilla">blah blah stuff blah</button> --- gorilla is an attribute
