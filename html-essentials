@@ -1,0 +1,30 @@
+<html> <head> <body> --- these are all tags
+
+</html> --- this is a closing tag
+
+
+<body> stuff...blahblahblah
+
+code
+code
+
+<h1>HELLO WORLD</H1>
+
+code
+code
+
+</body>  --- everything from line 6 to line 16 is a part of the body element. the h1 element is within the body element
+
+elements and tags can be (and often are) nested inside each other
+
+<html></html> --- is parent element
+<body></body><head></head> --- are child elements, as well as h1 elements and link elements
+
+//almost all tags require a closing tag; however there are exceptions, for ex: the link tag
+
+<!DOCTYPE html> --- this specifies what kind of html you're using
+
+the <head><head> tag gives the browser information on the document that wont be seen. like link style sheets
+other tags like <body></body> will be seen
+
+<h1> to <h6> is the title-subsection range
